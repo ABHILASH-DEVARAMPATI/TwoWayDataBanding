@@ -1,0 +1,22 @@
+
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid black;
+    row-gap: 5px;
+    border-radius: 10px;
+    border-collapse: collapse;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    row-gap: 1px;
+}
+
+li{
+
+}

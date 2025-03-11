@@ -1,0 +1,12 @@
+div{
+    padding: 10px;
+    border:1px solid black;
+}
+
+button{
+    height: 45px;
+    width: 70px;
+    background-color: red;
+    color: brown;
+    border: none;
+}
